@@ -34,8 +34,10 @@ Three models were built:
  2. Ridge Regression Model
  3. Lasso Regression Model
  
+ The results of each model: 
+ 
+ ![image](https://user-images.githubusercontent.com/100279497/172643939-2e88e91f-3579-4d41-8f56-1e44e71285ef.png)
+
 
 ## Contact
 Created by [@aishahjh]
-
-# HousePrice_Prediction
